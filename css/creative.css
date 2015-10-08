@@ -189,7 +189,7 @@ header {
     min-height: auto;
     text-align: center;
     color: #fff;
-    background-image: url(../img/header.png);
+    background-image: url(../img/header.jpg);
     background-position: center;
     background-attachment: fixed;
     -webkit-background-size: cover;
@@ -204,7 +204,7 @@ header {
     min-height: auto;
     text-align: center;
     color: #fff;
-    background-image: url(../img/header3.jpg);
+    background-image: url(../img/metodologia.jpg);
     background-position: center;
     background-attachment: fixed;
     -webkit-background-size: cover;
