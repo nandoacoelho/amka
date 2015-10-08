@@ -1,5 +1,4 @@
 # AMKA
 
-## Getting Started
+## Site criado para a AMKA Consulting
 
-Site criado para a AMKA Consulting
